@@ -62,9 +62,3 @@ The **Upgrade Splunk** guide provides step-by-step instructions on how to safely
 File: [`upgrade-splunk.md`](upgrade-splunk.md)
 
 ---
-
-Feel free to open an issue or pull request if you have suggestions for improving these documents or would like to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
