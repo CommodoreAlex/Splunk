@@ -115,6 +115,8 @@ Splunk supports multiple authentication methods:
 #### KNOWLEDGE
 - Manage knowledge objects like lookups, reports, alerts, and dashboards for data enrichment and analysis.
 
+![3](https://github.com/user-attachments/assets/2b0934f8-8815-4169-ab4a-b6ee6e39eadf)
+
 ---
 
 ### Explore Data
