@@ -74,6 +74,6 @@ File: [`splunk-query-language.md`](splunk-query-language.md)
 
 The Indicators of Compromise guide builds on Splunk's Search Processing Language (SPL), showing how to detect security threats in enterprise environments. It focuses on identifying anomalies like failed login attempts, malicious IP addresses, and unusual data transfers, using SPL to create actionable insights and trigger alerts.
 
-File: [`indicator-compromise.md`](indicator-compromise.md)
+File: [`indicators-compromise.md`](indicators-compromise.md)
 
 ---
