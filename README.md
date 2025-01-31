@@ -13,6 +13,7 @@ This repository contains a collection of documents and guides for managing and t
 - [Troubleshooting - Ingestion](#troubleshoot-ingestion)
 - [Troubleshooting - Clearing](#troubleshoot-clearing)
 - [Upgrade Splunk](#upgrade-splunk)
+- [Splunk Query Language](#splunk-query-language)
 
 ## Deploy Splunk
 
@@ -61,5 +62,11 @@ File: [`troubleshoot-clearing.md`](troubleshoot-clearing.md)
 The **Upgrade Splunk** guide provides step-by-step instructions on how to safely upgrade your Splunk instance. This guide covers preparation steps, potential issues to look out for, and the necessary actions to upgrade Splunk while minimizing downtime.
 
 File: [`upgrade-splunk.md`](upgrade-splunk.md)
+
+## Splunk Query Language
+
+The **Splunk Query Language** guide introduces beginners to Splunk's Search Processing Language (SPL). This guide explains the basics of writing and optimizing queries to search log data, create insightful reports, and trigger alerts effectively.
+
+File: [`splunk-query-language.md`](splunk-query-language.md)
 
 ---
