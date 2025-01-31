@@ -8,7 +8,6 @@ This repository contains a collection of documents and guides for managing and t
 - [Deploy Splunk](#deploy-splunk)
 - [Administration](#administration)
 - [Forwarders](#forwarders)
-- [Queries](#queries)
 - [Create Dashboards](#create-dashboards)
 - [Troubleshooting - Ingestion](#troubleshoot-ingestion)
 - [Troubleshooting - Clearing](#troubleshoot-clearing)
@@ -34,12 +33,6 @@ This document provides information on how to configure Splunk forwarders for col
 
 File: [`forwarders.md`](forwarders.md)
 
-
-## Queries
-
-The **Queries** guide focuses on Splunk's search language (SPL). It helps users understand how to write and optimize queries for searching through log data, creating reports, and triggering alerts.
-
-File: [`queries.md`](queries.md)
 ## Create Dashboards
 
 This document explains how to create custom dashboards in Splunk. It provides step-by-step instructions on how to use Splunk’s interface to build and design interactive dashboards that display relevant system metrics and logs.
