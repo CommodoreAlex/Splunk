@@ -154,6 +154,8 @@ This sets the **splunkd** service to start automatically and starts it immediate
    - **Default URL**: `http://<hostname>:8000`
    - Log in with the administrator credentials you created during installation.
 
+![1](https://github.com/user-attachments/assets/83f86157-cd27-45ab-a9dc-0dbeb1b374b0)
+
 ---
 
 ## Post-Installation Configuration
@@ -166,6 +168,8 @@ Adding data sources is a crucial first step in setting up your Splunk instance. 
 
 8. **Navigate to Data Inputs**  
    - Go to **Settings > Add Data** in the Splunk interface.
+
+![2](https://github.com/user-attachments/assets/cf4778bc-59c6-4f80-a0a7-0f34dbec6203)
 
 9. **Choose a Data Input Method**  
 
