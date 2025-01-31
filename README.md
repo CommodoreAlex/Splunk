@@ -14,6 +14,7 @@ This repository contains a collection of documents and guides for managing and t
 - [Upgrade Splunk](#upgrade-splunk)
 - [Troubleshooting Common Issues](#troubleshooting-common-issues)
 - [Splunk Query Language](#splunk-query-language)
+- [Indicators Of Compromise](#indicators-of-compromise)
 
 ## Deploy Splunk
 
@@ -68,5 +69,11 @@ File: [`common-troubleshooting.md`](common-troubleshooting.md)
 The **Splunk Query Language** guide introduces beginners to Splunk's Search Processing Language (SPL). This guide explains the basics of writing and optimizing queries to search log data, create insightful reports, and trigger alerts effectively.
 
 File: [`splunk-query-language.md`](splunk-query-language.md)
+
+## Indicators Of Compromise
+
+The Indicators of Compromise guide builds on Splunk's Search Processing Language (SPL), showing how to detect security threats in enterprise environments. It focuses on identifying anomalies like failed login attempts, malicious IP addresses, and unusual data transfers, using SPL to create actionable insights and trigger alerts.
+
+File: [`indicator-compromise.md`](indicator-compromise.md)
 
 ---
